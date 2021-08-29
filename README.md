@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  [![Guimonteirol](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/Guimonteirol/)
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/Guimonteirol/)
 
   </div>
