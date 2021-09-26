@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img align="center" alt="cmulay | Read Book" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/multi.gif" width="300" height="300" />
+  <img align="center" alt="cmulay | Read Book" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/multi.gif" width="350" height="250" />
  </div>
   <hr>
 <div style= "display: flex; justify-content: center; align-items: center">
