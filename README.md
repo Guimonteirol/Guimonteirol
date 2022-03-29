@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <ul>
   <li>
-     💻 I'm currently a Interdisciplinary Bachelor's Degree in Science and Technology student  at UFBA, with a focus on following a technology career as a Fullstack Web Developer.
+     💻 I'm currently a Interdisciplinary Bachelor's Degree in Science and Technology student at UFBA, with a focus on following a technology career as a Fullstack Web Developer.
   </li>
     <li>😍 Passionate about Javascript, Typescript, Node.</li>
    <li>💻 I also have knowledge in Bootstrap and Angular.</li>
