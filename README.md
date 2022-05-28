@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 <h1>Hi! I'm Guilherme 👋</h1>
 
-<img align="right" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/multi.gif"  width='220' height="190" />
+<!-- <img align="right" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/multi.gif"  width='220' height="190" /> -->
 
- Now I'm currently studying Web Development at SoulCode Academy.
+ Now I'm currently studying Software Development - focus on BackEnd at Cubos Academy.
  
  <a href="https://www.linkedin.com/in/guilherme-guimarães-jacobina-monteiro-559365216/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:gui.gjacobina@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
@@ -29,15 +29,17 @@ Here are some ideas to get you started:
   <li>
      💻 I'm currently a Interdisciplinary Bachelor's Degree in Science and Technology student at UFBA, with a focus on following a technology career as a Fullstack Web Developer.
   </li>
-    <li>😍 Passionate about Javascript, Typescript, Node.</li>
-   <li>💻 I also have knowledge in Bootstrap and Angular.</li>
+    <li>😍 Passionate about Javascript, Typescript, NodeJs</li>
+   <li>💻 I also have knowledge in Bootstrap and Angular</li>
+  <li> 🧠 I’m currently learning PostgreSQL and React </li>
+ <li> ⚡ Fun fact I love to draw fashion sketches </li>
   </ul>
   
 
 ---
 
 ## 🛠 Tech Stack
-
+<div align='center'>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -50,6 +52,8 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+ </div>
+ 
 ---
 
 ## 📝Most Used Languages
