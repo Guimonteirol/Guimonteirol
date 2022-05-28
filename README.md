@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/multi.gif"  width='220' height="190" /> -->
 
  Now I'm currently studying Software Development - focus on BackEnd at Cubos Academy.
- 
- <a href="https://www.linkedin.com/in/guilherme-guimarães-jacobina-monteiro-559365216/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:gui.gjacobina@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
-
 
 
 ##  ✨ About me
@@ -36,8 +32,6 @@ Here are some ideas to get you started:
   </ul>
   
 
----
-
 ## 🛠 Tech Stack
 <div align='center'>
 
@@ -49,12 +43,23 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
  </div>
+
+
+## 🌎 Find me elsewhere 
+<div align='center'>
  
----
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermemonteirol/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guimonteirol)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/quinnBerry15)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gui.gjacobina@gmail.com)
+
+ </div>
+ 
+
 
 ## 📝Most Used Languages
 
@@ -63,6 +68,9 @@ Here are some ideas to get you started:
  <a href="https://github.com/Guimonteirol">
    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guimonteirol&hide=html&layout=compact&theme=dark"/></p>
       </div> 
+  
+  
+  ![Profile views](https://gpvc.arturio.dev/Guimonteirol)
  
      
 
