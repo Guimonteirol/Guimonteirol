@@ -8,16 +8,16 @@ Back-End Developer | Focused on scalable systems, cloud infrastructure, and real
 
 ## 👨‍💻 About Me
 
-I'm a back-end developer passionate about building robust, scalable systems and integrating smart solutions across the web.  
-Currently studying Back-End Software Development at <strong>Cubos Academy</strong> and pursuing an interdisciplinary degree in Science & Technology at <strong>UFBA</strong>.
+I'm a Back-End Developer passionate about building robust, scalable, and high-performance systems, with strong experience in cloud-native architectures and real-time communication platforms.
+Currently, I’m pursuing a Bachelor’s degree in Computer Science at <strong>UFBA (Universidade Federal da Bahia)</strong>, where I strengthen my foundations in software engineering, system design, and computational theory.
+I enjoy working close to infrastructure and architecture decisions, always focusing on clean code, scalability, and maintainability.
 
-My core interests include:
-
-- Designing and building RESTful APIs and microservices  
-- Cloud-based development using AWS  
-- Real-time communication integrations with Twilio  
-- Relational database modeling with PostgreSQL  
-- Modern front-end development using React and JavaScript  
+Key areas of interest:
+- Designing and developing RESTful APIs and microservices
+- Serverless and cloud-native development using AWS
+- Real-time communication systems with Twilio (Flex, Functions, Sync)
+- Relational and NoSQL databases, including PostgreSQL and DynamoDB
+- Front-end integration using React and JavaScript
 
 ---
 
@@ -25,28 +25,27 @@ My core interests include:
 
 <div align="center">
 
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Twilio](https://img.shields.io/badge/Twilio-%23F22F46.svg?style=for-the-badge&logo=twilio&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Kafka](https://img.shields.io/badge/KafkaJS-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 GitHub Insights
+## ☁️ Cloud & Real-Time Experience
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimonteirol&hide=html&layout=compact&theme=dark)
-<br />
-
-![Views](https://komarev.com/ghpvc/?username=Guimonteirol&color=blue&style=flat-square)
-
-
-</div>
+- AWS Lambda for serverless back-end services
+- API Gateway for RESTful API exposure and routing
+- DynamoDB for scalable NoSQL data storage
+- PostgreSQL for relational data modeling
+- Twilio Flex for customizable contact center solutions
+- Twilio Functions & Sync for real-time data and workflow orchestration
 
 ---
 
